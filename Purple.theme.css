@@ -1,4 +1,4 @@
-﻿.container-1UB9sr,.container-2Thooq,.container-PNkimc,.members-1998pB {
+.container-1UB9sr,.container-2Thooq,.container-PNkimc,.members-1998pB {
   background-color: var(--medium)!important;
 }
 
@@ -224,10 +224,10 @@
   background-color: transparent;
   background-image: url(https://raw.githubusercontent.com/ChrisopherU08/themes/master/hyperdimension-neptunia-555b00d1e4fc7.png);
   background-size: contain;
-  width: 100px;
-  height: 16px;
-  padding-left: 15px;
-  padding-right: 15px;
+  width: 200px;
+  height: 25px;
+  padding-left: 5px;
+  padding-right: 5px;
   margin-left: 0;
   display: block;
 }
