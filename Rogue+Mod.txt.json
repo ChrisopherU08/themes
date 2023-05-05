@@ -1,0 +1,124 @@
+{
+    "name": "Rogue+ (PURPLE)",
+    "description": "when dark grey isn't enough (AMOLED/Black version of Rogue, AMOLED MODE REQUIRED)",
+    "authors": [
+        {
+            "name": "Λrtful",
+            "id": "612070016845742083"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            false, false, "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            false, false, "#999999"
+        ],
+        "TEXT_NORMAL": [
+            false, false, "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            false, false, "#999999"
+        ],
+        "TEXT_LINK": [
+            false, false, "#aa8cff"
+        ],
+        "TEXT_DANGER": [
+            false, false, "#aa8cff"
+        ],
+        "INTERACTIVE_NORMAL": [
+            false, false, "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            false, false, "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            false, false, "#4c4c4c"
+        ],
+        "BACKGROUND_PRIMARY": [
+            false, false, "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            false, false, "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            false, false, "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            false, false, "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            false, false, "#1a1a1a"
+        ],
+        "BACKGROUND_FLOATING": [
+            false, false, "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            false, false, "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            false, false, "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            false, false, "#000000"
+        ],
+        "BACKGROUND_MENTIONED": [
+            false, false, "#aa8cff33"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            false, false, "#aa8cff33"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            false, false, "#1a1a1a"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            false, false, "#000000"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            false, false, "#1a1a1a"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            false, false, "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            false, false, "#999999"
+        ],
+        "CHAT_BACKGROUND": [
+            false, false, "#000000"
+        ],
+        "CHANNELS_DEFAULT": [
+            false, false, "#999999"
+        ],
+        "TEXT_LINK": [
+            false, false, "#aa8cff"
+        ],
+        "CHANNEL_ICON": [
+            false, false, "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#999999",
+        "PRIMARY_500": "#999999",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "BRAND_260": "#aa8cff",
+        "BRAND_360": "#aa8cff",
+        "BRAND_500": "#aa8cff",
+        "BRAND_560": "#ffffff",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#aa8cff",
+        "YELLOW_300": "#aa8cff",
+        "ORANGE_345": "#aa8cff",
+        "GREEN_345": "#aa8cff",
+        "GREEN_360": "#aa8cff",
+        "RED_560" : "#aa8cff",
+        "RED_400": "#aa8cff"
+    },
+  "spec": 2
+}
